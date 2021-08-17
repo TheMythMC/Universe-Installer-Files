@@ -11,5 +11,10 @@
             "display_name": "Pixxi Pack",
             "compatible_versions": ["1.17.1"]
         },
+	{
+	    "name": "Mythic-Pack",
+	    "display_name": "Mythic Pack",
+	    "compatible_versions": ["1.17.1"]
+	}
     ]
 }
